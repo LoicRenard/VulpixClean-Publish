@@ -1,6 +1,6 @@
-<?xml version="2.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
+  <version>1.0.0.0</version>
   <url>https://github.com/LoicRenard/VulpixClean-Publish/blob/main/VulpixClean-1.0.0.0.zip</url>
   <changelog>https://github.com/LoicRenard/VulpixClean-Publish/blob/main/VulpixClean-1.0.0.0.zip</changelog>
   <mandatory>false</mandatory>
